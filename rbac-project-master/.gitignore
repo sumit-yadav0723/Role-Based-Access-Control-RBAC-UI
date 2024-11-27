@@ -54,6 +54,7 @@ Thumbs.db
 *.swp
 *.swo
 
+.env
 # Optional npm cache directory
 .npm
 
